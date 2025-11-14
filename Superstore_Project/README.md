@@ -43,11 +43,13 @@ KPI summary for executives 
 Create Datetable for YoY comparison 
  
 Final Outcome
+
 This is a complete analytical solution showing:
 Where profit is strongest  
 Which states discount too aggressively  
 How performance changes over time  
-Actionable strategic recommendations  
+Actionable strategic recommendations
+
  
 This project demonstrates my capabilities in:
 Real-world BI workflow
@@ -55,8 +57,9 @@ SQL + Data Modeling
 Business storytelling
 Power BI dashboard design
 Professional documentation
-Contact:
-If you’d like to connect or discuss:
+
+Contact If you’d like to connect or discuss:
+
 Email: nyoresam@gmail.com
 LinkedIn: https://www.linkedin.com/in/ememoh-oghenenyore-samuel5891311a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_
 medium=android_app
