@@ -61,8 +61,10 @@ Professional documentation
 Contact If you’d like to connect or discuss:
 
 Email: nyoresam@gmail.com
-LinkedIn: https://www.linkedin.com/in/ememoh-oghenenyore-samuel5891311a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_
-medium=android_app
+
+LinkedIn: https://www.linkedin.com/in/ememoh-oghenenyore-samuel5891311a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Indeed: https://profile.indeed.com/p/oghenenyoresamuele-xx5sztm
+
 PS.This project represents a complete data analyst workflow, built from scratch and optimized for a professional BI portfolio
  
